@@ -75,7 +75,7 @@ Upliftrnginners
 ### **Local Setup:**
 ```bash
 # Clone the repo
-git clone [https://github.com/your-team/Bullet-Nexus]
+git clone https://github.com/MildCode/Bullet-Nexus-Game.git
 
 # Open .exe file to run the game
 ```
